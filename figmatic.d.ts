@@ -1,1 +1,1 @@
-declare module 'figmatic';
+declare module '*';
