@@ -1,19 +1,20 @@
-var Calculator = function () { };
+"use strict";
 
-Calculator.prototype.add = function (a, b) {
-    return a + b;
+class Figmatic {
+
+    constructor() {
+        this.red = "#ff6666";
+        this.blue = "#00ffff";
+    }
+
+    red() {
+        return this.red;
+    }
+
+    blue() {
+        return this.blue;
+    }
+
 }
 
-Calculator.prototype.subtract = function (a, b) {
-    return a - b;
-}
-
-Calculator.prototype.multiply = function (a, b) {
-    return a * b;
-}
-
-Calculator.prototype.divide = function (a, b) {
-    return a / b;
-}
-
-module.exports = new Calculator();
+module.exports = Figmatic;
