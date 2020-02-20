@@ -1,6 +1,6 @@
 {
   "name": "figmatic",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "figma design-first component library",
   "main": "index.js",
   "scripts": {
