@@ -1,0 +1,19 @@
+{
+  "name": "figmatic",
+  "version": "1.0.0",
+  "description": "figma design-first component library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wensontsai/figmatic.git"
+  },
+  "author": "wensontsai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wensontsai/figmatic/issues"
+  },
+  "homepage": "https://github.com/wensontsai/figmatic#readme"
+}
